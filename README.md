@@ -1,8 +1,4 @@
-# LOOKING FOR MAINTAINER
-
-I'm sorry but I can't maintain this project anymore.
-
-If you want to maintain this project, contact me (batdevis[at]gmail.com) and I will transfer the ownership.
+Personal Fork of Swagger engine to turn off validations in non-local environemnts
 
 # SwaggerEngine
 
